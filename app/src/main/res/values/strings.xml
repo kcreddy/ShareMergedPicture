@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShareMergedPicture</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">Facebook App ID</string>
+</resources>
